@@ -1,0 +1,15 @@
+{
+  "name": "insights-node-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple boilerplate to get started publishing data to Bosch IoT Insights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florian Fendt",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.5.0",
+    "ws": "^7.0.0"
+  }
+}
