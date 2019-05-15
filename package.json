@@ -9,7 +9,6 @@
   "author": "Florian Fendt",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.5.0",
-    "ws": "^7.0.0"
+    "node-fetch": "^2.5.0"
   }
 }
